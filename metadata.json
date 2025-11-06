@@ -1,0 +1,5 @@
+{
+  "name": "Arizona Smoke",
+  "description": "An advanced chat interface that streams responses from the Gemini 2.5 Pro model, featuring code execution capabilities and Google Search grounding for up-to-date, comprehensive answers.",
+  "requestFramePermissions": []
+}
